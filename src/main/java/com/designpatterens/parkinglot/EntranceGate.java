@@ -16,6 +16,6 @@ public class EntranceGate {
         parkingSpotManager.addParkingSpace(parkingSpot);
     }
     public void generateTicket(Vehicle vehicle){
-        ticket.generateTicket(vehicle);
+        //ticket.generateTicket(vehicle);
     }
 }
